@@ -1,0 +1,8 @@
+int i, números[10];
+    for (i = 0; i < 10; i++) {
+        cout << "ingrese 10 numeros por favor " << endl;
+        cin >> numeros[i];
+    }
+    for (i = 9; i >= 0; i--) {
+        cout << numeros[i] << endl;
+    }

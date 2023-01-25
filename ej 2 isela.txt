@@ -1,0 +1,16 @@
+#include<iostream>
+
+using namespace std;
+
+int main()
+{
+   int número , may=0;
+for(int cont=1; cont<=10,cont++){
+cout<<Num<<cont<<  “;”;
+
+cin>>num;
+if(may<num){
+may=num;
+
+cout<<=el mayor es .”<<may<<endl;
+}
